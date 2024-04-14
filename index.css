@@ -22,10 +22,12 @@ p {
 
 button {
     margin-top: 0.5rem;
-    font-size: 16px;
-    padding: 1em 2em;
+    font-size: 18px;
+    width: 190px;
+    padding: .8em 1.9em;
     background-color: goldenrod;
     color: #016f32;
     font-weight: 700;
-    border: 2px solid #016f32
+    border: none;
+    border-radius: 2px;
 }
