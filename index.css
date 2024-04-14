@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    color: goldenrod;
+    margin-bottom: 1rem;
+}
+
+#message-el {
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
